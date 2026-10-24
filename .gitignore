@@ -18,3 +18,4 @@ Release/
 *.idb
 *.tlog
 *.log
+packages/
